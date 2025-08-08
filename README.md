@@ -7,6 +7,7 @@ AtliQ Hardware, a global consumer electronics company, faced significant challen
 **Business Insights 360** is the first cross-functional Power BI dashboard rolled out to empower stakeholders from **Finance, Sales, Marketing, Supply Chain, and Executive leadership** with real-time analytics. The solution ensures streamlined insights for proactive decision-making and future growth.
 
 🔗 **Live Dashboard**: **[Click Here](https://project.novypro.com/SS0LOS)**
+   **Presentation Video**: **[Click Here](https://www.linkedin.com/posts/a-m-mohaiminur-zoarder-9a675512a_powerbi-businessintelligence-dataanalytics-activity-7359453392013811712-cdQ8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAB_KcE4BAHNXmq8jZGCRmY8ilHNOKpwq928)** 
 
 🧠 Built as part of Codebasics' Data Analytics Bootcamp – [Course Link](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance)
 
